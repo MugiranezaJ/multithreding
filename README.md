@@ -1,2 +1,2 @@
 # multithreding
-learning multithreading in java
+multithreading in java
